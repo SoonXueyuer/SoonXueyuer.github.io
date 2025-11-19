@@ -6,8 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a student majoring in Information Security at Jiangxi University of Science ang Technology.(https://www.jxust.edu.cn/) My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a student majoring in Information Security at Jiangxi University of Science ang Technology.(https://www.jxust.edu.cn/) My research interest includes misc, pwn, web,Cryptography and Reverse engieering.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I am very fortunate to be advised by [Prof.Xie] from [School of Information Engineering], Jiangxi University of Science and Technology. 
+Here are my social media accouts(Warning:Indicate the purpose of your visit):
+WECHAT:sxy17607978717
+QQ:3332128340
+TIKTOK:SoonXueyuer
