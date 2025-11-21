@@ -12,10 +12,10 @@ At Jiangxi University of Science and Technology, I'm currently diving into core 
 
 I'm also studying programming languages such as Python and C/C++, which I use to develop small-scale security tools and analyze potential system vulnerabilities. My goal is to contribute to safeguarding information security, and I hope to explore areas like cloud security threat detection in future studies.
 
-Here are my social media accounts:
+Here are my social media accounts(Pleae state your purpose):
 
 WECHAT:sxy17607978717
-
 QQ:3332128340
-
 TIKTOK:SoonXueyuer
+
+(If you have any questions,you can sned them to me by email.)
