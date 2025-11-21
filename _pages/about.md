@@ -1,4 +1,3 @@
-![Suggestion](https://github.com/user-attachments/assets/182c9d01-ed3b-4ddf-95d7-1871cc90ad85)---
 permalink: /
 title: "Welcome! This is the personal website of SoonXueyuer."
 author_profile: true
