@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Attended the Eighth Middle School of NanKang district during junior high school.
-* Attended NanKang Middle School in Jiangxi Province during senior high school.
-* Attended university at Jiangxi University  of Science and Technology.
+* 2019-2022 the Eighth Middle School of NanKang district.
+* 2022-2025 NanKang Middle School, Jiangxi Province.
+* 2025-     Jiangxi University  of Science and Technology.
 
 Work experience
 ======
