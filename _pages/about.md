@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome! This is the personal website of SoonXueyuer."
 author_profile: true
