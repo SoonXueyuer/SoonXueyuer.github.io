@@ -14,8 +14,8 @@ I'm also studying programming languages such as Python and C/C++, which I use to
 
 Here are my social media accounts(Pleae state your purpose):
 
-WECHAT:sxy17607978717
-QQ:3332128340
-TIKTOK:SoonXueyuer
+WECHAT:sxy17607978717   
+QQ:3332128340   
+TIKTOK:SoonXueyuer   
 
 (If you have any questions,you can sned them to me by email.)
