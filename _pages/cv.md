@@ -13,7 +13,7 @@ Education
 ======
 * 2019-2022 the Eighth Middle School of NanKang district.
 * 2022-2025 NanKang Middle School, Jiangxi Province.
-* 2025-     Jiangxi University  of Science and Technology.
+* 2025-2029 Jiangxi University  of Science and Technology.
 
 Work experience
 ======
